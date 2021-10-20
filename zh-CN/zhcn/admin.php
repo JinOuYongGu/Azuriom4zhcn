@@ -40,7 +40,7 @@ return [
             'heading' => '内容',
             'pages' => '页面',
             'posts' => '帖子',
-            'images' => '图像',
+            'images' => '图片',
         ],
 
         'extensions' => [
@@ -90,7 +90,7 @@ return [
         'users' => '用户',
         'posts' => '帖子',
         'pages' => '页面',
-        'images' => '图像',
+        'images' => '图片',
     ],
 
     'settings' => [
@@ -425,7 +425,7 @@ return [
         'maintenance-access' => '维护期间访问网站',
         'admin-access' => '访问管理员控制面板',
         'admin-logs' => '查看和管理站点日志',
-        'admin-images' => '查看和管理图像',
+        'admin-images' => '查看和管理图片',
         'admin-navbar' => '查看和管理导航栏',
         'admin-pages' => '查看和管理页面',
         'admin-posts' => '查看和管理帖子',
@@ -485,14 +485,14 @@ return [
     ],
 
     'images' => [
-        'title' => '图像',
-        'title-edit' => '编辑图像 :image',
+        'title' => '图片',
+        'title-edit' => '编辑图片 :image',
         'title-create' => '上传图片',
 
         'status' => [
             'created' => '图片已创建。',
-            'updated' => '此图像已更新。',
-            'deleted' => '此图像已被删除。',
+            'updated' => '此图片已更新。',
+            'deleted' => '此图片已被删除。',
         ],
     ],
 
@@ -607,9 +607,9 @@ return [
         ],
 
         'images' => [
-            'created' => '创建图像 #:id',
-            'updated' => '更新图像 #:id',
-            'deleted' => '已删除图像 #:id',
+            'created' => '创建图片 #:id',
+            'updated' => '更新图片 #:id',
+            'deleted' => '已删除图片 #:id',
         ],
 
         'roles' => [

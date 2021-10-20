@@ -21,7 +21,7 @@ return [
     ],
 
     'settings' => [
-        'copyright' => '版权 © :year Azuriom - 保留所有权利。',
+        'copyright' => '版权 © :year Azuriom - 保留所有权利',
         'money' => '得分',
     ],
 ];

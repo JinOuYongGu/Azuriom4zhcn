@@ -54,7 +54,7 @@ return [
         'enabled' => '已启用',
         'author' => '作者',
         'user' => '用户',
-        'image' => '图像',
+        'image' => '图片',
         'type' => '类型',
         'file' => '文件',
         'description' => '描述',
@@ -116,7 +116,7 @@ return [
 
     'server' => [
         'online' => ':count 在线玩家|:count 在线玩家',
-        'offline' => '服务器目前处于离线状态。',
+        'offline' => '服务器目前处于离线状态',
     ],
 
     'profile' => [
@@ -124,7 +124,7 @@ return [
         'change-email' => '更改电子邮件地址',
         'change-password' => '更改密码',
 
-        'not-verified' => '您的电子邮件未验证，请检查您的电子邮件以获取验证链接。',
+        'not-verified' => '您的电子邮件未验证，请检查您的电子邮件以获取验证链接',
 
         'updated' => '您的个人资料已更新',
 
@@ -142,11 +142,11 @@ return [
             'secret' => '密钥： :secret',
             'title' => '启用两步验证',
             'code' => '验证码',
-            'enabled' => '双重身份验证已启用。',
+            'enabled' => '双重身份验证已启用',
             'disabled' => '双重身份验证已禁用',
         ],
 
-        'email-not-verified' => '您的电子邮箱尚未验证，请检查您的邮件以获取验证链接。如果没有收到，可以重新发送电子邮件。',
+        'email-not-verified' => '您的电子邮箱尚未验证，请检查您的邮件以获取验证链接。如果没有收到，可以重新发送电子邮件',
 
         'money-transfer' => [
             'title' => '资金转移',

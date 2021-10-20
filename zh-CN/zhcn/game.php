@@ -8,7 +8,7 @@ return [
 
     'minecraft' => [
         'id' => 'UUID',
-        'commands' => '你可以使用 <code>{name}</code> 来获取玩家的用户名, <code>{uuid}</code> 来获取玩家 UUUID',
+        'commands' => '你可以使用 <code>{name}</code> 来获取玩家的用户名, <code>{uuid}</code> 来获取玩家UUID',
     ],
 
     'minecraft_bedrock' => [
